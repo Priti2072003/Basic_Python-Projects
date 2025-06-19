@@ -16,7 +16,7 @@ Projects:-
 
 5. *Basic Chatbot*: A simple chatbot that responds to basic user queries using predefined rules.
 
-6. *Portfolio Tracker*: A Python script that tracks the performance of a portfolio of stocks.
+6. *Random Password Generator*: A simple password generator that generates a random password of required length.
 
 Requirements
 - Python 3.x
