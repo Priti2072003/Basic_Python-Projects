@@ -28,7 +28,4 @@ Requirements
 Contributing
 Contributions are welcome! If you'd like to add new projects or improve existing ones, feel free to submit a pull request.
 
-License
-This repository is licensed under the MIT License. See `LICENSE` for details.
-
 I hope this helps! Let me know if you have any questions or need further assistance.
